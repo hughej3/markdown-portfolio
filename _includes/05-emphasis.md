@@ -1,7 +1,7 @@
 # Skills
 ### *Programming languages*
-* **R**
-* **MATLAB**
+* R
+* MATLAB
 ### *Special Talents*
-* **Juggling**
-* **Extensive _The Elder Scrolls_ knowledge** :dragon:
+* Juggling
+* **Extensive _The Elder Scrolls_ knowledge** 
